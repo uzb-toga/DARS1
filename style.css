@@ -1,0 +1,76 @@
+h1{
+    text-align: center;
+    color: rgb(39, 36, 36);
+    background-color: rgb(168, 203, 235);
+    border: 5px solid red;
+    border-radius: 50px ;
+}
+i{
+    color: red;
+}
+.ja{
+    color: green;
+}
+
+.jas{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+iframe{
+    width: 2000px;
+    height:500px ;
+}
+img{
+    width: 2000px;
+    height: 450px;
+
+}
+.jasur{
+    width: 290px;
+    height: 10px;
+}
+.man{
+    color: green;
+}
+.Asr{
+    color: white;
+    background-color: rgb(49, 49, 128);
+}
+.MAK{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+.joo{
+    color: white;
+    background-color: rgb(6, 122, 230);
+    border-radius: 5px solid ;
+}    
+.a{
+    color: white;
+    background-color: green;
+}
+.s{
+    color: white;
+    background-color: blue;
+}
+.d{
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.f{
+    color: white;
+    background-color:black;
+    text-align: center;
+}
+.dd{
+    width: 2000px;
+    height: 100px;
+}
+
+
+
+
+
